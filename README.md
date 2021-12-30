@@ -21,6 +21,6 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 10. Sentiment analysis of user reviews
 #
 
-- ### At DataCamp https://www.datacamp.com
-- ### Instructor: Lavanya Gupta
-- ### Career Track: Data Scientist with Python
+- #### At DataCamp https://www.datacamp.com
+- #### Instructor: Lavanya Gupta
+- #### Career Track: Data Scientist with Python
