@@ -15,31 +15,18 @@
 
 ---
 #### ▶️ STEPS:
-- [x] Loading your friend's data into a dictionary
-- [x] Creating a DataFrame from a dictionary
-- [x] A visual inspection of our data
-- [x] Loading the rest of the data from a CSV
-- [x] Filtering for movies!
-- [x] Creating a scatter plot
-- [x] Digging deeper
-- [x] Marking non-feature films
-- [x] Plotting with color!
-- [x] What next?
+- [x] Google Play Store apps and reviews
+- [x] Data cleaning
+- [x] Correcting data types
+- [x] Exploring app categories
+- [x] Distribution of app ratings
+- [x] Size and price of an app
+- [x] Relation between app category and app price
+- [x] Filter out "junk" apps
+- [x] Popularity of paid apps vs free apps
+- [x] Sentiment analysis of user reviews
 
 ---
 ##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
 ##### 🧑‍🏫 **Instructor**: Lavanya Gupta
 ##### 📖 **Career Track**: Data Scientist with Python
-
-
-#
-1. Google Play Store apps and reviews
-2. Data cleaning
-3. Correcting data types
-4. Exploring app categories
-5. Distribution of app ratings
-6. Size and price of an app
-7. Relation between app category and app price
-8. Filter out "junk" apps
-9. Popularity of paid apps vs free apps
-10. Sentiment analysis of user reviews
