@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  🚧 INVESTIGATING NETFLIX MOVIES AND GUEST STARS IN THE OFFICE 🚧
+  🚧 THE ANDROID APP MARKET ON GOOGLE PLAY 🚧
 </h3>
 
 ---
@@ -30,7 +30,7 @@
 ##### 🧑‍🏫 **Instructor**: Lavanya Gupta
 ##### 📖 **Career Track**: Data Scientist with Python
 
-# **The Android App Market on Google Play**
+# ****
 
 ## *Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.*
 
